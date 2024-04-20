@@ -1,4 +1,9 @@
+
+[logo](C:\Users\dell\OneDrive\Desktop\My photo.jpg )
 <h1 align="center">Hi 👋, I'm Shlok Gautam(Tony)</h1>
+
+
+
 <h3 align="center">A passionate fullstack Developer And Coding Languages-<C++||C||Python||Java</h3>
 <image align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
