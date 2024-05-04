@@ -1,5 +1,4 @@
-
-[logo]("C:\Users\dell\Downloads\WhatsApp Image 2024-05-03 at 09.39.04_32149b9b.jpg")
+![logo]("C:\Users\dell\Downloads\WhatsApp Image 2024-05-03 at 09.39.04_32149b9b.jpg")
 <h1 align="center">Hi 👋, I'm Shlok Gautam(Tony)</h1>
 
 
